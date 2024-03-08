@@ -1,10 +1,7 @@
 This is Pratibha and I am making some changes in text file. and another some changes in this text file and another changes
-<<<<<<< HEAD
-this is the second line
 
 this is the finak line
-=======
 This is Pratibha and second line added
 
 This is Pratibha and I have done some changes in Feature
->>>>>>> parent of 64187ac (changes made)
+
